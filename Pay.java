@@ -12,7 +12,9 @@ class payment
         System.out.println("");
         float payment=hours*hrate;
         System.out.println("Total Payment is: "+payment+"Rs ");
-
+      
+        
+        
     }
 
 }
